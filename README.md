@@ -1,3 +1,7 @@
+Customised dawn build
+
+- Remove member options from UI if membership is disabled. Done via the {{@labs.members}} (which needs to be changed once ghost offers a different option).
+
 # Dawn
 
 A highly functional theme that adapts to the reader's preferences. Let them read, search, subscribe, navigate, and more with ease. Completely free and fully responsive, released under the MIT license.
